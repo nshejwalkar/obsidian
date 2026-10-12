@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "75c2d405f7e1ea0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d19d89afb3df38a",
+        "type": "tabs",
+        "dimension": 54.441624365482234,
+        "children": [
+          {
+            "id": "703af4532337427d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Processes vs Threads.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Processes vs Threads"
+            }
+          },
+          {
+            "id": "3522c6ffe8a43c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributed Systems/Scheduler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scheduler"
+            }
+          },
+          {
+            "id": "bcd50024d6c07f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributed Systems/Inter-Process Communication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inter-Process Communication"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e187d8836b90a909",
+        "type": "tabs",
+        "dimension": 45.558375634517766,
+        "children": [
+          {
+            "id": "5e3d17b2390f9035",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c85ad9f730e196ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e784385c70a6847",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19a4ef53da3e5c54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d14c53b3dc3fddda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6b68f3f3e507f87f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "243f918be320db14",
+    "type": "split",
+    "children": [
+      {
+        "id": "2863d4047d93ceb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9195f2d0b5e18d1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Distributed Systems/Processes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "76da759f792a7b43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Distributed Systems/Processes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dbf3ff8ea8542e6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1fd45610d0cb8972",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "86a92ac892dcdc38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Distributed Systems/Processes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bcd50024d6c07f0b",
+  "lastOpenFiles": [
+    "Distributed Systems/Inter-Process Communication.md",
+    "Distributed Systems/Kernel space.md",
+    "Distributed Systems/Processes.md",
+    "Distributed Systems/Mutual Exclusion.md",
+    "Distributed Systems/Consistency Models.md",
+    "Distributed Systems/Scheduler.md",
+    "Distributed Systems/Concurrency and Synchronization.md",
+    "Databases/Databases Notes.md",
+    "Databases/Processes vs Threads.md",
+    "Databases/Evolution of OSes.md",
+    "Databases/Threading.md",
+    "Databases/C10k problem.md",
+    "Distributed Systems/images",
+    "Distributed Systems/images/Pasted image 20261011190535.png",
+    "PCB.md",
+    "Distributed Systems/images/Pasted image 20261010222136.png",
+    "Inference/Inference/Inference.md",
+    "Databases/Better Schedulers.md",
+    "Distributed Systems"
+  ]
+}

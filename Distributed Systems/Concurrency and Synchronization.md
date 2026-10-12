@@ -1,0 +1,5 @@
+With multithreading, different threads share the same memory. The kernel is allowed to switch between these threads [[Scheduler|whenever it wants]] (with preemptive scheduling), meaning that various operations within those threads might unexpectedly overlap when interacting with that shared memory, without the right synchronization. With cooperative scheduling and a properly written program, a program wouldn't need to worry about these problems.
+
+A race condition is when the result of a computation depends on the exact timing of the threads of execution. Usually due to concurrent updates to the same state. 
+
+We desire some level of consistency within our program(s). We can do so by adopting a [[Consistency Models|consistency model]], the most common for single machine being sequential consistency. To enforce such models, we use the tools of mutual exclusion.

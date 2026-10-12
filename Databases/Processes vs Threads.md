@@ -16,3 +16,5 @@ A short list of what the threads inside processes contain:
 - stack
 - signal mask
 - scheduling state, whether the thread is running/ready/blocked, priority, niceness, affinity
+
+Using multithreading comes with a whole separate host of problems, see [[Concurrency and Synchronization]].
